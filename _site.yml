@@ -1,0 +1,11 @@
+name: "my-website"
+navbar:
+  title: "Easy-peasy econometrics (draft version)"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Lectures"
+      href: Seminar_logs_2017.html
+      
